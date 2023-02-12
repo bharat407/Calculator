@@ -30,7 +30,7 @@
 
 ## :framed_picture: Demo
 <a>
-<img alt="BK" width="250px" src="https://user-images.githubusercontent.com/85440714/218257290-db76d84b-91a1-4350-b838-4c3c6161cfeb.jpg" />
+<img alt="BK" width="250px" src="https://user-images.githubusercontent.com/85440714/218298140-27d062a3-d967-4867-9930-6bdb5538c584.jpg" />
 </a>
 
 ## :dart: About
